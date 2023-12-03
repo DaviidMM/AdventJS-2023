@@ -1,7 +1,6 @@
 function manufacture(gifts, materials) {
   return gifts.reduce((acc, gift) => {
-    const uniqueCharacters = [...new Set(gift)];
-    const canCraft = uniqueCharacters.every((char) => materials.includes(char));
+    const canCraft = [...gift].every((char) => materials.includes(char));
     if (canCraft) acc = [...acc, gift];
     return acc;
   }, []);
