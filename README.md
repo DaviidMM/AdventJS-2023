@@ -8,8 +8,8 @@ Es una iniciativa de [midudev](https://github.com/midudev) para aprender y mejor
 
 ## Retos resueltos
 
-| Número |              Reto               | Dificultad |                                 Solución                                 |
-| :----: | :-----------------------------: | :--------: | :----------------------------------------------------------------------: |
-|   #1   |   🎁 ¡Primer regalo repetido!   |     🟢     |     [Ir a la solución](./1%20-%20🎁%20¡Primer%20regalo%20repetido!/)     |
-|   #2   | 🏭 Ponemos en marcha la fábrica |     🟢     | [Ir a la solución](./2%20-%20🏭%20Ponemos%20en%20marcha%20la%20fábrica/) |
-|   #3   |   🎁 ¡Primer regalo repetido!   |     🟢     |         [Ir a la solución](./3%20-%20😏%20El%20elfo%20travieso/)         |
+| Número |              Reto               | Dificultad |                                  Solución                                   |
+| :----: | :-----------------------------: | :--------: | :-------------------------------------------------------------------------: |
+|   #1   |   🎁 ¡Primer regalo repetido!   |     🟢     |     [Ver reto y solución](./1%20-%20🎁%20¡Primer%20regalo%20repetido!/)     |
+|   #2   | 🏭 Ponemos en marcha la fábrica |     🟢     | [Ver reto y solución](./2%20-%20🏭%20Ponemos%20en%20marcha%20la%20fábrica/) |
+|   #3   |   🎁 ¡Primer regalo repetido!   |     🟢     |         [Ver reto y solución](./3%20-%20😏%20El%20elfo%20travieso/)         |
